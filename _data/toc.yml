@@ -27,10 +27,10 @@
   not_numbered: true
 
 # External link
-#- title: GitHub repository
-#  url: https://github.com/jupyter/jupyter-book
-#  external: true
-#  not_numbered: true
+- title: GitHub repository
+  url: https://github.com/chrsyng/btl2techsystems
+  external: true
+  not_numbered: true
 
 # Adds a searchbar link
 - title: Search
@@ -40,7 +40,7 @@
 - divider: true
 
 # Add a header and sample content section
-#- header: Technology Systems 
+- header: Unit 2 Technology Systems 
 
 # A chapter w/ a collection of sections beneath it
 - title: Understand how the components of technology systems work together 
