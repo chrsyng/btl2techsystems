@@ -22,8 +22,9 @@
 # See the links below for an example.
 
 # Top-level page
-#  url: /intro
-#  not_numbered: true
+- title: Introduction
+  url: /intro
+  not_numbered: true
 
 # External link
 #- title: GitHub repository
@@ -36,10 +37,10 @@
   search: true
 
 # Divider for meta-pages and content page
-- divider: true
+#- divider: true
 
 # Add a header and sample content section
-- header: "Unit 2 Technology Systems" 
+#- header: "Unit 2 Technology Systems" 
 
 # A chapter w/ a collection of sections beneath it
 - title: Understand how the components of technology systems work together 
