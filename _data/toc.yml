@@ -33,19 +33,17 @@
 #  not_numbered: true
 
 # Adds a searchbar link
-- title: Search
-  search: true
+#- title: Search
+#  search: true
 
 # Divider for meta-pages and content page
-#- divider: true
+- divider: true
 
 # Add a header and sample content section
-#- header: "Unit 2 Technology Systems" 
+- header: "Unit 2 Technology Systems" 
 
 # A chapter w/ a collection of sections beneath it
-- title: Understand how the components of technology systems work together 
-  url: /aimA/intro
-  not_numbered: true
+- header: Understand how the components of technology systems work together 
   expand_sections: true
   sections:
   - title: 
