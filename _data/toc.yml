@@ -43,7 +43,8 @@
 #- header: "Unit 2 Technology Systems" 
 
 # A chapter w/ a collection of sections beneath it
-- header: Understand how the components of technology systems work together 
+- title: Understand how the components of technology systems work together
+  url: /aimA/intro 
   expand_sections: true
   sections:
   - title: 
