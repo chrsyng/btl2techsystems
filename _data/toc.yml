@@ -151,7 +151,7 @@
     url: /aimC/C12
     not_numbered: true
 # A chapter w/ a collection of sections beneath it
-- title: Understand the different types of software
+- title: Appendix 
   url: /appendix/intro 
   expand_sections: true
   sections:
