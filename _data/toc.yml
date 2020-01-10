@@ -80,4 +80,87 @@
   - title: 
     url: /aimA/A11
     not_numbered: true
-
+# A chapter w/ a collection of sections beneath it
+- title: Understand how data flows between internal components of a computer and is processed to provide information
+  url: /aimB/intro 
+  expand_sections: true
+  sections:
+  - title: 
+    url: /aimB/B01
+    not_numbered: true
+  - title: 
+    url: /aimB/B02
+    not_numbered: true
+  - title: 
+    url: /aimB/B03
+    not_numbered: true
+  - title: 
+    url: /aimB/B04
+    not_numbered: true
+  - title: 
+    url: /aimB/B05
+    not_numbered: true
+  - title: 
+    url: /aimB/B06
+    not_numbered: true
+  - title: 
+    url: /aimB/B07
+    not_numbered: true
+  - title: 
+    url: /aimB/B08
+    not_numbered: true
+# A chapter w/ a collection of sections beneath it
+- title: Understand the different types of software
+  url: /aimC/intro 
+  expand_sections: true
+  sections:
+  - title: 
+    url: /aimC/C01
+    not_numbered: true
+  - title: 
+    url: /aimC/C02
+    not_numbered: true
+  - title: 
+    url: /aimC/C03
+    not_numbered: true
+  - title: 
+    url: /aimC/C04
+    not_numbered: true
+  - title: 
+    url: /aimC/C05
+    not_numbered: true
+  - title: 
+    url: /aimC/C06
+    not_numbered: true
+  - title: 
+    url: /aimC/C07
+    not_numbered: true
+  - title: 
+    url: /aimC/C08
+    not_numbered: true
+  - title: 
+    url: /aimC/C09
+    not_numbered: true
+  - title: 
+    url: /aimC/C10
+    not_numbered: true
+  - title: 
+    url: /aimC/C11
+    not_numbered: true
+  - title: 
+    url: /aimC/C12
+    not_numbered: true
+# A chapter w/ a collection of sections beneath it
+- title: Understand the different types of software
+  url: /appendix/intro 
+  expand_sections: true
+  sections:
+  - title: 
+    url: /appendix/ExamSkills1
+    not_numbered: true
+  - title: 
+    url: /appendix/ExamSkills2
+    not_numbered: true
+  - title: 
+    url: /appendix/ExamSkills3
+    not_numbered: true
